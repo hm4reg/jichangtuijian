@@ -1,0 +1,29 @@
+# 不要为整个网站生成大标题
+title: "网络加速与稳定专线选用指南"
+tagline: "每日检查更新优质高速翻墙机场VPN"
+description: "2026年高速稳定机场挑选与最新可用地址更新指南：本站长期维护并更新各大专线机场的最新官网入口，解决链接失效、用户迷路的痛点。内容严选多家运营时间长、稳定性好的老牌机场，并针对不同需求提供深度评测，包含不限时按量计费包、高带宽IEPL专线以及全球多节点原生住宅IP等高性价比方案。本指南旨在帮助用户根据实际需求理性消费，避免盲目长周期年付，确保在晚高峰时段依然能获得稳定、顺畅的连线体验。"
+lang: "zh-CN"
+
+# 告訴 GitHub Pages，首頁的實體檔案由 README.md 來生成
+permalink: /index.html
+
+# 保持您原本的 Markdown 渲染機制
+markdown: kramdown
+
+url: "https://hm4reg.github.io/jichangtuijian/index.html"
+baseurl: "" 
+
+# 1. 启用自动处理标题的插件
+plugins:
+  - jekyll-titles-from-headings
+
+# 2. 更改为开启状态，并设置剥离正文中的首个 h1
+titles_from_headings:
+  enabled: true
+  strip_title: true
+# 🌟 新增下方這段核心配置：強制讓首頁套用預設的主題排版
+defaults:
+  - scope:
+      path: "" # 代表全站，包含自動生成的 index.html
+    values:
+      layout: "default" # 套用主題的預設寬度居中樣式
