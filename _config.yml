@@ -10,8 +10,8 @@ permalink: /jichangtuijian/index.html
 # 保持您原本的 Markdown 渲染機制
 markdown: kramdown
 
-url: "https://hm4reg.github.io/jichangtuijian/index.html"
-baseurl: "" 
+url: "https://hm4reg.github.io"
+baseurl: "/jichangtuijian" 
 
 # 1. 启用自动处理标题的插件
 plugins:
