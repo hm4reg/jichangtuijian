@@ -5,7 +5,7 @@ description: "2026年高速稳定机场挑选与最新可用地址更新指南�
 lang: "zh-CN"
 
 # 告訴 GitHub Pages，首頁的實體檔案由 README.md 來生成
-permalink: /index.html
+permalink: /jichangtuijian/index.html
 
 # 保持您原本的 Markdown 渲染機制
 markdown: kramdown
