@@ -66,6 +66,8 @@
 
 ---
 
+#### 友情连接：[大露西](https://github.com/giantlucy/latest_jichang)
+
 ### Daily Hot News
 
 - [2026-10-01 13:40] #47 以总理还原迪拜航空客机安全事件 (热度: 3417783)
