@@ -66,7 +66,7 @@
 
 ---
 
-#### 友情连接：[大露西](https://github.com/giantlucy/latest_jichang)
+#### 友情链接：[大露西](https://github.com/giantlucy/latest_jichang)
 
 ### Daily Hot News
 
